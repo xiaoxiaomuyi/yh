@@ -1,7 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
-
+//杨浩
+//
 public class HuanZi : MonoBehaviour {
 	public static HuanZi _incan;
 	public EasyJoystick joy;
